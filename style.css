@@ -19,7 +19,7 @@ body {
   background: var(--bg);
 }
 
-.header {
+.header, .footer {
   height: 3rem;
 }
 
